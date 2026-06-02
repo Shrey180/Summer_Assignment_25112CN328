@@ -11,6 +11,6 @@ public class question1 {
         for (int x=1;x<=n;x++) 
             sum+=x;
 
-        System.out.println(sum);
+        System.out.println("Sum of N natural numbers =" +sum);
     }
 }
