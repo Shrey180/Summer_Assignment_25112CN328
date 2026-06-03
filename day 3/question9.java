@@ -10,7 +10,7 @@ public class question9 {
         // 0 and 1 are not prime numbers
         if (n <= 1) {
             System.out.println("Not Prime");
-            return;
+            return ;
         }
         
         boolean isPrime = true;
