@@ -9,7 +9,7 @@ public class question1 {
         int sum=0; 
 
         for (int x=1;x<=n;x++) 
-            sum+=x;
+            sum +=x;
 
         System.out.println("Sum of N natural numbers =" +sum);
     }
