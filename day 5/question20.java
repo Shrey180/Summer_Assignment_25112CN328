@@ -26,7 +26,7 @@ public class question20 {
         
         // If n is still greater than 2, then the remaining n itself must be prime
         if (n > 2) {
-            largestPrimeFactor = n;
+            largestPrimeFactor =n;
         }
         
         System.out.println("The largest prime factor of " + original + " is: " + largestPrimeFactor);
