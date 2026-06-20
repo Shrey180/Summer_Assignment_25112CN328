@@ -20,6 +20,7 @@ public class question89 {
                 }
             }
             
+            
             // If count is exactly 1, it is non-repeating
             if (count == 1) {
                 System.out.println("The first non-repeating character is: " + ch);
